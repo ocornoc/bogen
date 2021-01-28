@@ -2,6 +2,10 @@
 
 Procedural generation of card games using a genetic algorithm to optimize for a "fun" value. This also creates, as part of the "fun" fitness function, Monte Carlo Tree Search agents to play the game, thus providing at least one AI (at a future point, maybe multiple of differing skill level) to play against. A furnished frontend is also planned.
 
+## Warning
+
+This repository is extremely work in progress and doesn't have documentation added yet. This will be fixed Soon(tm).
+
 ## License
 
 Licensed under either of
